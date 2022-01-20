@@ -9,8 +9,8 @@ I am currently seeking a co-op placement for summer 2022! I am eager to advance 
 <h1> Contact me </h1>
 
 <h5> <a href="https://www.jonahlp.com/">Website</a>
-## <h5> <a href="mailto:jpearce1558@conestogac.on.ca">Email</a>
-## <h5> <a href="https://www.linkedin.com/in/jonah-pearce-9630251b7/">LinkedIn</a>
+<h5> <a href="mailto:jpearce1558@conestogac.on.ca">Email</a>
+<h5> <a href="https://www.linkedin.com/in/jonah-pearce-9630251b7/">LinkedIn</a>
 
   
 <h1> Current Projects </h1>
